@@ -34,5 +34,6 @@ class Song
         unique << genre
       end
     end
+    unique
   end
 end
